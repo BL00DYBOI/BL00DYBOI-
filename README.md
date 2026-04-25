@@ -1,6 +1,6 @@
 # BL00DYBOI-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&lines=BL00DYBOI;in+the+dark+we+code;no+mercy+just+logic" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&lines=Lumine;i+love+her+..;just+silent+in+the+dark" />
 </h1>
 
 <p align="center">
