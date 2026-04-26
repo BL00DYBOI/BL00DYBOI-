@@ -1,6 +1,7 @@
 # BL00DYBOI-
 <h1 align="center">
-  <Screenshot_2026-04-25-19-06-51-66.png="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&lines=..;just+silent+in+the+dark" />
+  <Screenshot_2026-04-25-19-06-51-66.png
+    ="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&lines=..;just+silent+in+the+dark" />
 </h1>
 
 <p align="center">
